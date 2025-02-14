@@ -4,8 +4,8 @@ const nextConfig = {
   images: {
     unoptimized: true, // Disable default image optimization
   },
-  assetPrefix: isProd ? '/your-repository-name/' : '',
-  basePath: isProd ? '/your-repository-name' : '',
+  assetPrefix: isProd ? '/RohitLakhera2682.github.io' : '',
+  basePath: isProd ? '/RohitLakhera2682.github.io' : '',
   output: 'export'
 };
 
